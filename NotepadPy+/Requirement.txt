@@ -1,4 +1,4 @@
-shlex - pip install ushlex
+shlex - pip install shlex
 tkinter - https://docs.python.org/3/library/tkinter.html
 wx - pip install wxPython
-PySimpleGUI  - pip install pysimplegui
+PySimpleGUI  - pip install pessimal
